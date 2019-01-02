@@ -8,5 +8,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("git.....");
         System.out.println("go.....");
+        System.out.println("我是最帅的");
     }
 }
