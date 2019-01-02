@@ -9,5 +9,6 @@ public class Main {
         System.out.println("git.....");
         System.out.println("go.....");
         System.out.println("我是最帅的");
+        System.out.println("我是最帅的");
     }
 }
