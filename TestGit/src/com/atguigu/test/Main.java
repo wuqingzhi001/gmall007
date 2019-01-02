@@ -6,7 +6,7 @@ package com.atguigu.test;
  */
 public class Main {
     public static void main(String[] args) {
+        System.out.println("git.....");
         System.out.println("go.....");
-        System.out.println("git.....");System.out.println("go.....");
     }
 }
